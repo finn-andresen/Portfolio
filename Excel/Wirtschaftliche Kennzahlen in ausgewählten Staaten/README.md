@@ -27,4 +27,4 @@ Zur Reinigung der Rohdaten aus der CSV-Datei wurden folgende Schritte durchgefü
 1. Alle Spalten wurden korrekt formatiert.
 
 ## Preview
-![Dashboard Screenshot](https://github.com/finn-andresen/Portfolio/assets/127629198/54099427-521c-4315-84a3-6b4707c630a7)
+![image](https://github.com/finn-andresen/Portfolio/assets/127629198/5cba4b19-eafa-46c9-85e4-f324c4a0feaf)
