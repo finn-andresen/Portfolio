@@ -25,3 +25,6 @@ Zur Reinigung der Rohdaten aus der CSV-Datei wurden folgende Schritte durchgefü
 1. Daten wurden als Tabelle formatiert.
 1. Alle Zellen mit "m" wurden durch "0" ersetzt. Je nach Ansatz könnte man hier auch auf den Mittelwert, Median oder Modus zurückgreifen.
 1. Alle Spalten wurden korrekt formatiert.
+
+## Preview
+![Dashboard Screenshot](https://github.com/finn-andresen/Portfolio/assets/127629198/54099427-521c-4315-84a3-6b4707c630a7)
