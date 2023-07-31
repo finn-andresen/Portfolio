@@ -11,12 +11,16 @@ The dataset contains data about a selection of apps in the Apple AppStore from J
 - AppleStore_description.csv
 
 
-## Goal
+## Goals
 A software company or an independent developer would like to develop an app for the Apple AppStore. For this purpose, it should be analyzed what appears to be the most promising for an app. The following questions should therefore be answered as part of the analysis:
 - Which genre should the app belong to?
 - Should the app be free or paid? If paid, at what price?
 - How many languages should the app support?
 - Should the app have a rather short or long description?
+
+
+## Results
+Please refer to the bottom part of the [AppStore.ipynb](AppStore.ipynb) file, where the results are included.
 
 
 ## Files
